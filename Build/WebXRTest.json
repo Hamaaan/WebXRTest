@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rand_uranai1201",
+"productVersion": "1.0",
+"dataUrl": "WebXRTest.data.unityweb",
+"asmCodeUrl": "WebXRTest.asm.code.unityweb",
+"asmMemoryUrl": "WebXRTest.asm.memory.unityweb",
+"asmFrameworkUrl": "WebXRTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
